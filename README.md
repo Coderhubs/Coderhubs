@@ -45,9 +45,43 @@ I am a developer from Pakistan working under the alias **Coderhubs**. I build pr
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="assets/tech-solar.svg" width="600" alt="Tech Stack: Python, TypeScript, HTML5, Next.js, Tailwind, FastAPI, Chainlit, Streamlit, Vercel, Render" />
-</p>
+<div align="center">
+
+**🌞 Core**
+<br/>
+<img src="https://img.shields.io/badge/Coderhubs-14B8A6?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**🪐 Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<br/><br/>
+
+**🌍 Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br/><br/>
+
+**🛰️ Backend & AI**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<br/><br/>
+
+**🚀 Deployment**
+<br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F172A,100:14B8A6" width="100%" alt="divider" />
 
